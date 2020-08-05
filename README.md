@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ---
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tmcsantos&show_icons=true&hide_border=true&count_private=true&hide=stars" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmcsantos&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmcsantos&hide_border=true&layout=compact" />
