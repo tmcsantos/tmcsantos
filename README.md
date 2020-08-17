@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**
 
-<img align="left" alt="Vim" height="36" src="t" />
+<img align="left" alt="Vim" height="36" src="https://raw.githubusercontent.com/github/explore/master/topics/vim/vim.png" />
 <img align="left" alt="Java" height="36" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
 <img align="left" alt="Groovy" height="36" src="https://raw.githubusercontent.com/github/explore/master/topics/groovy/groovy.png" />
 <img align="left" alt="Python" height="36" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
