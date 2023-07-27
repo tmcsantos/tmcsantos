@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 <br />
 
----
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tmcsantos&show_icons=true&hide_border=true&count_private=true&hide=stars&theme=gruvbox" />
+<!------->
+<!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=tmcsantos&show_icons=true&hide_border=true&count_private=true&hide=stars&theme=gruvbox" />-->
 <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmcsantos&hide_border=true&layout=compact&theme=gruvbox" />-->
