@@ -18,16 +18,17 @@ Here are some ideas to get you started:
 **Languages and Tools:**
 
 <img align="left" alt="Vim" height="36" src="https://raw.githubusercontent.com/github/explore/master/topics/vim/vim.png" />
+<img align="left" alt="Python" height="36" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="Java" height="36" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
 <img align="left" alt="Groovy" height="36" src="https://raw.githubusercontent.com/github/explore/master/topics/groovy/groovy.png" />
-<img align="left" alt="Python" height="36" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="git" height="36" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="GitHub" height="36" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 <img align="left" alt="Docker" height="36" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
 <img align="left" alt="Terminal" height="36" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
+<!-- <img align="left" alt="Rust" height="36" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" /> -->
 
 <br />
 
-<!------->
+---
 <!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=tmcsantos&show_icons=true&hide_border=true&count_private=true&hide=stars&theme=gruvbox" />-->
-<!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmcsantos&hide_border=true&layout=compact&theme=gruvbox" />-->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmcsantos&hide_border=true&layout=compact&theme=gruvbox" />
